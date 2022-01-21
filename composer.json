@@ -1,0 +1,19 @@
+{
+    "name": "haseeb/session",
+    "description": "it's weather package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Haseeb\\Session\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Haseeb Ali",
+            "email": "haseeb.ali@tkxel.io"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
